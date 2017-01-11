@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 1¡¢this is a test file.
 2¡¢test clone.
+=======
+test.
+>>>>>>> 23e0ec5dffc823593cf64311490aa1dd31619b4f
